@@ -3,8 +3,17 @@
   display: none;
 }
 
+#b2-showing{
+  display: none;
+}
+
 
 .clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable2 {
   cursor: pointer;
   color: #0088cc;
 }
